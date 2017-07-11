@@ -1,0 +1,3 @@
+Mashalah
+print (x*y)
+
