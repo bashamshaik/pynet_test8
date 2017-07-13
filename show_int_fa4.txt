@@ -1,0 +1,29 @@
+FastEthernet4 is up, line protocol is up
+  2   Hardware is PQII_PRO_UEC, address is c89c.1dea.0eb6 (bia c89c.1dea.0eb6)
+  3   Description: *** LAN connection (don't change) ***
+  4   Internet address is 10.220.88.20/24
+  5   MTU 1500 bytes, BW 100000 Kbit/sec, DLY 100 usec,
+  6      reliability 255/255, txload 1/255, rxload 1/255
+  7   Encapsulation ARPA, loopback not set
+  8   Keepalive set (10 sec)
+  9   Full-duplex, 100Mb/s, 100BaseTX/FX
+ 10   ARP type: ARPA, ARP Timeout 04:00:00
+ 11   Last input 00:00:00, output 00:00:00, output hang never
+ 12   Last clearing of "show interface" counters never
+ 13   Input queue: 2/75/0/0 (size/max/drops/flushes); Total output drops: 0
+ 14   Queueing strategy: fifo
+ 15   Output queue: 0/40 (size/max)
+ 16   5 minute input rate 1000 bits/sec, 2 packets/sec
+ 17   5 minute output rate 2000 bits/sec, 2 packets/sec
+ 18      16638663 packets input, 1636867592 bytes
+ 19      Received 1861963 broadcasts (0 IP multicasts)
+ 20      0 runts, 0 giants, 0 throttles
+ 21      0 input errors, 0 CRC, 0 frame, 0 overrun, 0 ignored
+ 22      0 watchdog
+ 23      0 input packets with dribble condition detected
+ 24      18047726 packets output, 2073955919 bytes, 0 underruns
+ 25      0 output errors, 0 collisions, 1 interface resets
+ 26      0 unknown protocol drops
+ 27      0 babbles, 0 late collision, 0 deferred
+ 28      1 lost carrier, 0 no carrier
+ 29      0 output buffer failures, 0 output buffers swapped out
